@@ -1,8 +1,8 @@
 streamlit
-nltk
 scikit-learn
 pickle-mixin
 
 # NLTK resources
+nltk
 nltk-stopwords
 nltk-punkt_tab
