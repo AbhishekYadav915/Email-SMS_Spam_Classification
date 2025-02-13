@@ -2,3 +2,7 @@ streamlit==1.30.0
 nltk==3.8.1
 scikit-learn==1.3.0
 pickle-mixin==1.0.2
+
+# NLTK resources
+nltk-stopwords
+nltk-punkt
