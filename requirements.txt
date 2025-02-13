@@ -2,7 +2,5 @@ streamlit
 scikit-learn
 pickle-mixin
 nltk
-stopwords
-punkt
 
 
